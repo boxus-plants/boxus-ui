@@ -1,2 +1,3 @@
 # boxus-ui
-Web UI for boxus-api
+
+https://github.com/chartjs/Chart.js
